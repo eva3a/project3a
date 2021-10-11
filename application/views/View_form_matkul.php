@@ -14,7 +14,7 @@ method="post">
 <table>
 <tr>
 <th colspan="3">
-Form Input Data Mata Kuliah
+Form Inputan Data Mata Kuliah
 </th>
 </tr>
 
