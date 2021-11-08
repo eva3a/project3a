@@ -5,8 +5,7 @@
 </head>
 <body>
 
-
-    <table border="1px solid black">
+<table border="1px solid black">
         <tr>
             <th>ID BUKU</th>
             <th>JUDULBUKU</th>
@@ -37,6 +36,8 @@
                 <?php endforeach; ?>
 
     </table>
+
+
 
 </body>
 </html>
